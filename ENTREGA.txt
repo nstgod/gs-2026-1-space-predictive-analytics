@@ -1,8 +1,0 @@
-=== GLOBAL SOLUTION 2026.1 ===
-Disciplina: Cross-Platform Application Development
-
-Integrante 1: Nelson Troccoli Santos Neto | RM: 562815
-Integrante 2: Kaua da Silva Lazarim | RM: 564625
-
-GitHub: https://github.com/nstgod/gs-2026-1-space-predictive-analytics
-Video: https://www.youtube.com/watch?v=dEk5VUMIUGQ
