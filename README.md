@@ -36,43 +36,42 @@ dessincronizados —, com feedback visual animado para os estados de risco.
   <img src="./assets/screenshots/home.png" alt="Home" width="260" />
 </div>
 
-Visão geral da missão: nome, status consolidado, contagem de alertas ativos e grade com
-todos os indicadores (energia, temperatura, sinal e estabilidade orbital).
+<p align="center">Visão geral da missão: nome, status consolidado, contagem de alertas ativos e grade com todos os indicadores (energia, temperatura, sinal e estabilidade orbital).</p>
 
 ### Dashboard de Sensores
 <div align="center">
   <img src="./assets/screenshots/sensores.png" alt="Sensores" width="260" />
 </div>
 
-Temperatura, pressão e radiação, com gráfico de tendência das leituras recentes.
+<p align="center">Temperatura, pressão e radiação, com gráfico de tendência das leituras recentes.</p>
 
 ### Dashboard de Energia
 <div align="center">
   <img src="./assets/screenshots/energia.png" alt="Energia" width="260" />
 </div>
 
-Carga da bateria e geração dos painéis solares, com histórico da bateria.
+<p align="center">Carga da bateria e geração dos painéis solares, com histórico da bateria.</p>
 
 ### Dashboard de Comunicação
 <div align="center">
   <img src="./assets/screenshots/comunicacao.png" alt="Comunicação" width="260" />
 </div>
 
-Qualidade do sinal e latência do link de telemetria, com gráfico do sinal.
+<p align="center">Qualidade do sinal e latência do link de telemetria, com gráfico do sinal.</p>
 
 ### Alertas
 <div align="center">
   <img src="./assets/screenshots/alertas.png" alt="Alertas" width="260" />
 </div>
 
-Lista de alertas ativos gerados automaticamente, com nível de criticidade e ícone animado.
+<p align="center">Lista de alertas ativos gerados automaticamente, com nível de criticidade e ícone animado.</p>
 
 ### Configurações / Formulário
 <div align="center">
   <img src="./assets/screenshots/configuracoes.png" alt="Configurações" width="260" />
 </div>
 
-Formulário com validação para o nome da missão e os limiares de Atenção/Crítico de cada métrica.
+<p align="center">Formulário com validação para o nome da missão e os limiares de Atenção/Crítico de cada métrica.</p>
 
 ---
 
