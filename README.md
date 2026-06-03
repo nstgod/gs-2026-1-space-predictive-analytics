@@ -2,7 +2,7 @@
 
 ### Global Solution 2026.1 — Cross-Platform Application Development | FIAP
 
-![Banner do projeto](./assets/screenshots/banner.png)
+<img src="./assets/screenshots/banner.png" alt="Banner do projeto" width="600" />
 
 ---
 
@@ -30,33 +30,33 @@ dessincronizados —, com feedback visual animado para os estados de risco.
 ## 📱 Telas do Aplicativo
 
 ### Home — Dashboard Principal
-![Home](./assets/screenshots/home.png)
+<img src="./assets/screenshots/home.png" alt="Home" width="260" />
 
 Visão geral da missão: nome, status consolidado, contagem de alertas ativos e grade com
 todos os indicadores (energia, temperatura, sinal e estabilidade orbital).
 
 ### Dashboard de Sensores
-![Sensores](./assets/screenshots/sensores.png)
+<img src="./assets/screenshots/sensores.png" alt="Sensores" width="260" />
 
 Temperatura, pressão e radiação, com gráfico de tendência das leituras recentes.
 
 ### Dashboard de Energia
-![Energia](./assets/screenshots/energia.png)
+<img src="./assets/screenshots/energia.png" alt="Energia" width="260" />
 
 Carga da bateria e geração dos painéis solares, com histórico da bateria.
 
 ### Dashboard de Comunicação
-![Comunicação](./assets/screenshots/comunicacao.png)
+<img src="./assets/screenshots/comunicacao.png" alt="Comunicação" width="260" />
 
 Qualidade do sinal e latência do link de telemetria, com gráfico do sinal.
 
 ### Alertas
-![Alertas](./assets/screenshots/alertas.png)
+<img src="./assets/screenshots/alertas.png" alt="Alertas" width="260" />
 
 Lista de alertas ativos gerados automaticamente, com nível de criticidade e ícone animado.
 
 ### Configurações / Formulário
-![Configurações](./assets/screenshots/configuracoes.png)
+<img src="./assets/screenshots/configuracoes.png" alt="Configurações" width="260" />
 
 Formulário com validação para o nome da missão e os limiares de Atenção/Crítico de cada métrica.
 

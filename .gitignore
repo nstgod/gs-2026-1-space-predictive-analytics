@@ -40,5 +40,5 @@ yarn-error.*
 /ios
 /android
 
-# Config local do Claude Code
-.claude/
+# Config local/pessoal do Claude Code (a config de projeto .claude/settings.json fica versionada)
+.claude/settings.local.json
